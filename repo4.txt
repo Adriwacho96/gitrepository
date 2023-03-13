@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Aloh
 <<<<<<< HEAD
 Estoy modificando repo4 en local
@@ -5,3 +6,8 @@ Estoy modificando repo4 en local
 Estoy editando en remoto
 >>>>>>> 2b67bdafce1813c86b493a1482d7549d464c6067
 holita
+=======
+Aloh
+Estoy editando en remoto
+Sigo editando
+>>>>>>> b4bb4b06de2b79153e53a8dd9669e34a428aca5a
