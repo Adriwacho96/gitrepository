@@ -1,2 +1,7 @@
 Aloh
+<<<<<<< HEAD
 Estoy modificando repo4 en local
+=======
+Estoy editando en remoto
+>>>>>>> 2b67bdafce1813c86b493a1482d7549d464c6067
+holita
